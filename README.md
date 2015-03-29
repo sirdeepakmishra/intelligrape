@@ -1,2 +1,0 @@
-# intelligrape
-codes for intelligrape
